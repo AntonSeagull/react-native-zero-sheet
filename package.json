@@ -1,6 +1,6 @@
 {
   "name": "react-native-zero-sheet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Мощный и гибкий компонент bottom sheet для React Native с поддержкой drag-to-close, автоматической обработкой клавиатуры и адаптивными размерами",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
